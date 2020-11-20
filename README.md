@@ -22,3 +22,5 @@ Laboratorio 4
 #
 
 Debido a que son procesos aleatorios, con cada ejecución del programa las gráficas se ven diferente, pero se adjuntan dos capturas de casos en que las gráficas salían como se esperaba. En el caso del valor esperado, se hizo con N=30, y para la autocorrelación se hizo con N=10. 
+
+Nota: si el archivo se llama 'L4.md' no se muestra automáticamente el texto en la página del repositorio.
